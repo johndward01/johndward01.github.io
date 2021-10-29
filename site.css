@@ -1,0 +1,18 @@
+/* Style Rules  */
+
+
+/* ---------------------------Tag Selectors--------------------------------- */
+
+
+/* --------------------Class Selectors------------------------ */
+
+.profile-pic {
+    width: 100px;    
+}
+
+.background-img {
+    background-image: url(img/forest-trail.jpg);
+    background-size: cover;
+}
+
+/* -----------------------ID Selectors------------------------ */
